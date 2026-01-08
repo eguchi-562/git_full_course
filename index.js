@@ -1,3 +1,4 @@
 function greet(){
-  consol.log("Hell from the main branch!");
+  consol.log("Hell from the main Branch!");
 }
+
